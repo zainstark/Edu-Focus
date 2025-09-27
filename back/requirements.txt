@@ -1,0 +1,10 @@
+asgiref
+channels
+channels-redis
+Django
+djangorestframework
+djangorestframework-simplejwt
+django-cors-headers
+django-filter
+daphne
+matplotlib
