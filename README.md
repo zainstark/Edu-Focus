@@ -45,7 +45,7 @@ This project is a monorepo with a Django backend and a Next.js frontend.
 
 ```bash
 # 1. Navigate to the backend directory
-cd back
+cd back/core
 
 # 2. Create and activate a Python virtual environment
 # On Windows
@@ -63,6 +63,10 @@ python manage.py migrate
 
 # 5. Start the Django ASGI server using Daphne
 daphne -p 8000 core.asgi:application
+
+Or run the following in separate terminals:
+celery -A core worker --pool=solo --concurrency=2 --loglevel=info
+python manage.py runserver
 ```
 
 The backend server will now be running on `http://localhost:8000`.
