@@ -3,9 +3,9 @@
 **Team:** EduFocus
 
 **Members:**
-Shahd Elnaggar
-Rewan Sameh
-Youssef Zain
+- Shahd Elnaggar
+- Rewan Sameh
+- Youssef Zain
 
 **Live Demo:** [Link to your deployed application (if applicable)]
 
