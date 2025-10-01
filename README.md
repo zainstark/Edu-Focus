@@ -7,7 +7,7 @@
 - Rewan Sameh
 - Youssef Zain
 
-[**Live Demo**](https://drive.google.com/file/d/1thkrot7DHBvzdmcbpuwoY7_0lOYVE4tF/view?usp=sharing) 
+[**Live Demo video**](https://drive.google.com/file/d/1thkrot7DHBvzdmcbpuwoY7_0lOYVE4tF/view?usp=sharing) 
 
 ---
 
